@@ -1,0 +1,52 @@
+.navbar-nav {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.carousel-item {
+  height: 25%;
+}
+
+.col-sm-6 {
+  background-color: transparent;
+  flex: 0 0 10%;
+  padding-right: 0px;
+  padding-left: 0px;
+  max-width: 40%;
+}
+
+.courseRow {
+  background-color: #d96356;
+  justify-content: center;
+  margin-right: 0%;
+  margin-left: 0%;
+}
+
+.card {
+  width: 14rem;
+  justify-content: space-between;
+  color: white;
+  background-color: transparent;
+  text-align: center;
+  border: none;
+}
+
+.card-body {
+  padding: 0;
+}
+
+.far {
+  line-height: 5;
+}
+
+.projectsContainer {
+  background-color: white;
+}
+
+.bottomNav {
+  background-color: #3b3b3b;
+}
+
+.copyright {
+  background-color: #292929;
+}
